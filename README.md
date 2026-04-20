@@ -1,7 +1,6 @@
 # ELK Stack Security Data Visualization
 
-**Course:** SRT411 – Systems Administration & Security | Seneca Polytechnic  
-**Lab:** 04 – Data Visualization  
+
 **Author:** Manraj Singh (msingh864)
 
 ---
