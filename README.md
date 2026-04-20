@@ -1,7 +1,7 @@
 # ELK Stack Security Data Visualization
 
 
-**Author:** Manraj Singh (msingh864)
+**Author:** Manraj Singh 
 
 ---
 
